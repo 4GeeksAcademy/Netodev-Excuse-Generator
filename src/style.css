@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+header {
+  background-color: rgb(146, 146, 111);
+}
+
+body {
+  background-color: bisque;
+  height: 100%;
+}
+
+.rounded-pill {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  background-color: rgb(173, 172, 172);
+}
